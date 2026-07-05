@@ -1,0 +1,22 @@
+@media print {
+  body * {
+    visibility: hidden;
+  }
+
+  #id-card,
+  #id-card * {
+    visibility: visible;
+  }
+
+  #id-card {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 380px;
+    box-shadow: none !important;
+  }
+
+  .btn {
+    display: none !important;
+  }
+}

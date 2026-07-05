@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "browser-image-compression": "^2.0.2",
+    "canvas": "^3.2.3",
+    "react-easy-crop": "^6.0.2",
+    "react-qr-code": "^2.2.0"
+  }
+}
