@@ -88,7 +88,7 @@ DATABASES = {
         'NAME': 'my_db',
         'USER': 'root',
         'PASSWORD': '4767',
-        'HOST': '...',
+        'HOST': 'localhost',
         'PORT': '3306',
     }
 }
@@ -133,7 +133,7 @@ EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
 EMAIL_HOST_USER = 'tyagichetan443@gmail.com'
-EMAIL_HOST_PASSWORD = 'urwomzpzjnjexnpk'
+EMAIL_HOST_PASSWORD = 'gizeefzaqwrwrktj'
 
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
 
